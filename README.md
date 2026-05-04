@@ -1,0 +1,2 @@
+# Autonomous-Crack-Detection-System-AI-Drone-based-Crack-detection-
+ACDS is an intelligent monitoring solution designed to detect vehicle collisions or high-impact incidents in real-time. By leveraging sensor data (accelerometers/gyroscopes) and machine learning, the system identifies crash patterns and can automatically trigger emergency alerts, potentially saving lives by reducing response times.
